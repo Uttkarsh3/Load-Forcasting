@@ -21,7 +21,7 @@ def main():
             This section shows an exploratory walkthrough of the input timeseries dataset 
             to the model. This dataset consists of hourly load and temperature 
             values for a region in North India. The analysis notebook which contains relevant
-            code may be found [here](https://github.com/Uttkarsh3/Energy-Forcast/blob/main/electricity-demand-forecast/notebooks/01-data-exploration.ipynb)
+            code may be found [here](https://github.com/Uttkarsh3/Load-Forcasting/blob/main/electricity-demand-forecast/notebooks/01-data-exploration.ipynb)
 """
     )
 
