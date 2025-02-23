@@ -21,10 +21,10 @@ def main():
     """
     )
     st.caption(
-        "Scource Code: [link](https://github.com/Uttkarsh3/Final/tree/main)" 
+        "Scource Code: [link](https://github.com/Uttkarsh3/Load-Forcasting)" 
     )
     st.caption(
-        "Analysis Notebook: [link](https://github.com/Uttkarsh3/Final/blob/main/electricity-demand-forecast/notebooks/01-data-exploration.ipynb)"
+        "Analysis Notebook: [link](https://github.com/Uttkarsh3/Load-Forcasting/blob/main/electricity-demand-forecast/notebooks/01-data-exploration.ipynb)"
     )
     # app_mode = st.sidebar.selectbox("Choose the app mode", APP_MODES, index=1)
     app_mode = st.sidebar.radio(
