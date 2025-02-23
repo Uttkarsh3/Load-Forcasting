@@ -21,7 +21,7 @@ def main():
     """
     )
     st.caption(
-        "Scource Code: [link](https://github.com/Uttkarsh3/Load-Forcasting)" 
+        "Source Code: [link](https://github.com/Uttkarsh3/Load-Forcasting)" 
     )
     st.caption(
         "Analysis Notebook: [link](https://github.com/Uttkarsh3/Load-Forcasting/blob/main/electricity-demand-forecast/notebooks/01-data-exploration.ipynb)"
