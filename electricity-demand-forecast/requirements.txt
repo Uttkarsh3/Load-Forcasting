@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+black
+jupyter
+scikit_learn
+streamlit
+seaborn
+xgboost
+optuna
+altair
+uvicorn
+pydantic
+fastapi
+# selenium
+# webdriver_manager
